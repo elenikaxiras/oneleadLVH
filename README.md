@@ -15,7 +15,7 @@ Harvard University, Cambridge, MA, USA<BR>
 <sup>6</sup> University of Crete, School of Medicine<BR>
 <sup>7</sup> Department of Cardiology, Heraklion University Hospital, Heraklion, Greece<BR>
 
-![singlelead_LVH_graphical_abstract.pdf](https://github.com/user-attachments/files/23749762/singlelead_LVH_graphical_abstract.pdf)
+<img width="2667" height="1500" alt="singlelead_LVH_graphical_abstract" src="https://github.com/user-attachments/assets/b55016ff-8348-4028-a848-dac2b7121fba" />
 
 
 
